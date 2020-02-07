@@ -1,0 +1,4 @@
+*.o
+*.hi
+.vscode
+.DS_Store
